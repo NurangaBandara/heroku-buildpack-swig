@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "SWIG Buildpack"
+exit 0
+chmod +x bin/detect
