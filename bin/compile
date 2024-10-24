@@ -3,3 +3,5 @@
 # Install SWIG
 apt-get update
 apt-get install -y swig
+
+chmod +x bin/compile
